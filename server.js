@@ -8,8 +8,8 @@ app.use(express.static(join(__dirname, 'public')))
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
-require("./public/assets/js/apiRoutes.js")(app)
-require("./public/assets/js/htmlRoutes.js")(app)
+require("./apiRoutes.js")(app)
+require("./htmlRoutes.js")(app)
 
 // this line runs our server, process.env.PORT is for Heroku deployment, portNum is for localhost
 app.listen(process.env.PORT || portNum, () => {
