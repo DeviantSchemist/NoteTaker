@@ -15,6 +15,7 @@ require("./htmlRoutes.js")(app)
 app.listen(process.env.PORT || portNum, () => {
   if (process.env.PORT) {
     // do something with Heroku here
+    console.log('Currently running on Heroku.....')
   } else {
     console.log(`Listening at port ${portNum}...`)
   }
