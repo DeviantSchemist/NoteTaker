@@ -7,17 +7,17 @@
       
 
   ### Table of Contents
-  [Description](https://github.com/DeviantSchemist/ReadmeGenerator#description)
+  [Description](https://github.com/DeviantSchemist/NoteTaker#description)
 
-  [Installation](https://github.com/DeviantSchemist/ReadmeGenerator#installation)
+  [Installation](https://github.com/DeviantSchemist/NoteTaker#installation)
 
-  [Usage](https://github.com/DeviantSchemist/ReadmeGenerator#usage)
+  [Usage](https://github.com/DeviantSchemist/NoteTaker#usage)
 
-  [Contribution](https://github.com/DeviantSchemist/ReadmeGenerator#contribution)
+  [Contribution](https://github.com/DeviantSchemist/NoteTaker#contribution)
 
-  [Tests](https://github.com/DeviantSchemist/ReadmeGenerator#tests)
+  [Tests](https://github.com/DeviantSchemist/NoteTaker#tests)
 
-  [Questions](https://github.com/DeviantSchemist/ReadmeGenerator#questions)
+  [Questions](https://github.com/DeviantSchemist/NoteTaker#questions)
 
   ## Description
   An application that lets you take notes on whatever you like and save them for reference. Free of bloatware and ads that run rampant on many other applications, straightforward and succinct. Open it up whenever you need to refer back to something either for school, work, or just having a general to do list for the day.
@@ -41,6 +41,6 @@
 
 
   ## Deployment
-  Github Repo: [Repo](https://github.com/DeviantSchemist/NoteTaker)
-  Heroku Deployment: [Heroku](https://damp-hollows-38248.herokuapp.com/)
+  [Github Repo](https://github.com/DeviantSchemist/NoteTaker) <br>
+  [Heroku Deployment](https://damp-hollows-38248.herokuapp.com/)
   
